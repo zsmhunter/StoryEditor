@@ -1,0 +1,11 @@
+
+.vsconfig
+.vs/LeniuStoryEditor/v16/.suo
+*.db
+*.csproj
+Library/*
+Temp/*
+obj/*
+*.sln
+Assets/_TerrainAutoUpgrade/*
+Assets/_TerrainAutoUpgrade.meta
